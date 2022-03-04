@@ -1,3 +1,5 @@
+![image](https://github.com/MobileAndCrossDevice/mobileandcrossdevice.github.io/blob/main/images/maxcolor.png)
+
 # Cross Device Experiences on Windows
 
 YourPhone app aspirational animation. [On the Windows Channel](https://www.youtube.com/watch?v=tZrpoSUQCJ0) 
