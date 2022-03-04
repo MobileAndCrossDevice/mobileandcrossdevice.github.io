@@ -1,13 +1,6 @@
 ![image](/images/maxcolor.png)
 
-
-
-
-![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif)
-
 # Cross Device Experiences on Windows
-
-
 
 YourPhone on Windows Insiders [official documentation](https://docs.microsoft.com/en-us/windows-insider/apps/your-phone) **Website**
 
@@ -17,3 +10,4 @@ Samsung unpacked Event 2022 [Pick up where you left off](https://www.youtube.com
 
 [Surface Duo & Your Phone](https://www.onmsft.com/news/surface-duo-february-update-your-phone-android) **Article**
 
+![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif)
