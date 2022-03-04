@@ -3,7 +3,7 @@
 
 
 
-!(Multiple apps)[https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif]
+![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif)
 
 # Cross Device Experiences on Windows
 
