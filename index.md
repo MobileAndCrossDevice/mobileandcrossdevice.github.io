@@ -1,4 +1,4 @@
-![image](https://github.com/MobileAndCrossDevice/mobileandcrossdevice.github.io/blob/main/images/maxcolor.png)
+![image](/images/maxcolor.png)
 
 # Cross Device Experiences on Windows
 
