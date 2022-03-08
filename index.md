@@ -23,3 +23,7 @@
 - **The SwiftKey Fluency engine** is used in other assistive input technology like Click2Speak, developed to assist people with ALS communicating. [Article](https://www.click2speak.net/our-story/) *[Video]*
 
 - **Multi-lingual emoji search** in SwiftKey [Feb 2022 release](https://windowsreport.com/wiftkey-multilingual-emoji-search/) *[Article]*
+
+# Password management
+
+- Autofill [via Authenticator](https://www.theverge.com/2020/12/16/22178026/microsoft-authenticator-autofill-feature-password-manager) *[Article]*
