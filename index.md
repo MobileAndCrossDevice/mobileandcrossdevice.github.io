@@ -1,4 +1,4 @@
-![image](/images/maxcolor.png){:height="36px" width="36px"}
+![image](/images/maxcolor.png){:width="100px"}
 
 # Cross Device Experiences on Windows
 
