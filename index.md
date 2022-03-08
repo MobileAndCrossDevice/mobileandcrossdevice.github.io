@@ -12,6 +12,8 @@
 
 - Galaxy Note20 Together is [Better with Microsoft](https://www.youtube.com/watch?v=aG0ptWxeOaU) *[Video]*
 
+- Microsoft and Samsung Partnership, [The Verge](https://www.theverge.com/2019/8/7/20756647/microsoft-samsung-android-apps-partnership-galaxy-note-10-unpacked-event) *[Article]*
+
 ![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif){:width="300px"}
 
 # SwiftKey mobile keyboard
