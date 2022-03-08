@@ -10,6 +10,8 @@
 
 - [Surface Duo & Your Phone](https://www.onmsft.com/news/surface-duo-february-update-your-phone-android) **Article**
 
+- Galaxy Note20 Together is [Better with Microsoft](https://www.youtube.com/watch?v=aG0ptWxeOaU) **Video**
+
 ![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif){:width="300px"}
 
 # SwiftKey mobile keyboard
