@@ -10,7 +10,7 @@
 
 - [Surface Duo & Your Phone](https://www.onmsft.com/news/surface-duo-february-update-your-phone-android) **Article**
 
-![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif){:width="100px"}
+![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif){:width="300px"}
 
 # SwiftKey mobile keyboard
 
