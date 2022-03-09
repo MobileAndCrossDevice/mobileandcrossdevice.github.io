@@ -42,7 +42,7 @@
 
 # Microsoft Launcher
 
-- Surface Duo V2 [Microsoft Launcher](https://www.youtube.com/watch?v=QYF6LaLcq90&t=4s)  *[Video]*
+- Surface Duo V2 [Microsoft Launcher](https://www.youtube.com/watch?v=QYF6LaLcq90&t=4s) *[Video]*
 
 # Contributions to Engineering
 
@@ -53,3 +53,5 @@
 - **Mixing static and dynamice linking** [for SwiftKey](https://medium.com/microsoft-mobile-engineering/mixing-static-and-dynamic-linking-in-cocoapods-83b6d4252c59)
 
 - ... and many more at [Medium.com](https://medium.com/microsoft-mobile-engineering)
+
+- **Navigation with less code** [mDevCamp](https://www.youtube.com/watch?v=rwUq0OGF-G4) *[Video]*
