@@ -8,6 +8,8 @@
 
 - YourPhone app aspirational animation. [On the Windows Channel](https://www.youtube.com/watch?v=tZrpoSUQCJ0) *[Video]*
 
+- YourPhone on [Windows 11](https://www.pcmag.com/how-to/how-to-connect-your-android-phone-to-your-windows-11-pc)  *[Article]*
+
 - Samsung unpacked Event 2022 [Pick up where you left off](https://www.youtube.com/watch?v=KpTBm_fg-Wk&t=3322s) *[Video]*
 
 - [Surface Duo & Your Phone](https://www.onmsft.com/news/surface-duo-february-update-your-phone-android) *[Article]*
@@ -39,11 +41,3 @@
 # Microsoft Launcher
 
 Surface Duo V2 [Microsoft Launcher](https://www.youtube.com/watch?v=QYF6LaLcq90&t=4s)
-
-
-
-
-
-Microsoft’s Your Phone App: What is it and How Do You Use It: Microsoft's Your Phone App: What Is It and How Do You Use It? (makeuseof.com)
-Microsoft Your Phone will soon show recent apps used on your Samsung phone - Gizmochina
-How to Connect Your Android Phone to Your Windows 11 PC | PCMag
