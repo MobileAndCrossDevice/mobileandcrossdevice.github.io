@@ -40,4 +40,4 @@
 
 # Microsoft Launcher
 
-- Surface Duo V2 [Microsoft Launcher](https://www.youtube.com/watch?v=QYF6LaLcq90&t=4s)
+- Surface Duo V2 [Microsoft Launcher](https://www.youtube.com/watch?v=QYF6LaLcq90&t=4s)  *[Video]*
