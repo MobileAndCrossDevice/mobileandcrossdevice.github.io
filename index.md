@@ -34,6 +34,8 @@
 
 - **Multi-lingual emoji search** in SwiftKey [Feb 2022 release](https://windowsreport.com/wiftkey-multilingual-emoji-search/) *[Article]*
 
+- **SwiftKey helping** [minoritized communities](https://www.youtube.com/watch?v=tdcBFnXoK80) *[Video]*
+
 # Password management
 
 - Autofill [via Authenticator](https://www.theverge.com/2020/12/16/22178026/microsoft-authenticator-autofill-feature-password-manager) *[Article]*
