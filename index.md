@@ -4,6 +4,8 @@
 
 - YourPhone on Windows Insiders [official documentation](https://docs.microsoft.com/en-us/windows-insider/apps/your-phone) *[Website]*
 
+- YourPhone [intro](https://www.makeuseof.com/microsoft-your-phone-app-guide/) *[Article]*
+
 - YourPhone app aspirational animation. [On the Windows Channel](https://www.youtube.com/watch?v=tZrpoSUQCJ0) *[Video]*
 
 - Samsung unpacked Event 2022 [Pick up where you left off](https://www.youtube.com/watch?v=KpTBm_fg-Wk&t=3322s) *[Video]*
@@ -15,6 +17,10 @@
 - Microsoft and Samsung Partnership, [The Verge](https://www.theverge.com/2019/8/7/20756647/microsoft-samsung-android-apps-partnership-galaxy-note-10-unpacked-event) *[Article]*
 
 - YourPhone review in [Korean](https://youtu.be/lkhPn1WELPY?t=444) *[Video]*
+
+- Your Phone on Samsung Galaxy Phone: [How to use](https://www.youtube.com/watch?v=C_4FaNfzaUI) *[Video]*
+
+- YourPhone [Recent Apps](https://www.gizmochina.com/2022/02/10/microsoft-your-phone-will-show-recent-apps-used-on-samsung-phone/) *[Article]*
 
 ![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif){:width="300px"}
 
@@ -29,3 +35,15 @@
 # Password management
 
 - Autofill [via Authenticator](https://www.theverge.com/2020/12/16/22178026/microsoft-authenticator-autofill-feature-password-manager) *[Article]*
+
+# Microsoft Launcher
+
+Surface Duo V2 [Microsoft Launcher](https://www.youtube.com/watch?v=QYF6LaLcq90&t=4s)
+
+
+
+
+
+Microsoft’s Your Phone App: What is it and How Do You Use It: Microsoft's Your Phone App: What Is It and How Do You Use It? (makeuseof.com)
+Microsoft Your Phone will soon show recent apps used on your Samsung phone - Gizmochina
+How to Connect Your Android Phone to Your Windows 11 PC | PCMag
