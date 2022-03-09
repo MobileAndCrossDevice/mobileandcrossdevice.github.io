@@ -48,10 +48,10 @@
 
 - **Language detectors** [for SwiftKey](https://medium.com/microsoft-mobile-engineering/a-non-inclusive-language-detector-lint-rule-for-swiftkey-c94ac63669d6) *[Article]*
 
-- **Measuring Android app size** [for SwiftKey](https://medium.com/microsoft-mobile-engineering/measuring-android-app-size-in-ci-c6f886b88a3)
+- **Measuring Android app size** [for SwiftKey](https://medium.com/microsoft-mobile-engineering/measuring-android-app-size-in-ci-c6f886b88a3) *[Article]*
 
-- **Mixing static and dynamice linking** [for SwiftKey](https://medium.com/microsoft-mobile-engineering/mixing-static-and-dynamic-linking-in-cocoapods-83b6d4252c59)
+- **Mixing static and dynamice linking** [for SwiftKey](https://medium.com/microsoft-mobile-engineering/mixing-static-and-dynamic-linking-in-cocoapods-83b6d4252c59) *[Article]*
 
-- ... and many more at [Medium.com](https://medium.com/microsoft-mobile-engineering)
+- ... and many more at [Medium.com](https://medium.com/microsoft-mobile-engineering) 
 
 - **Navigation with less code** [mDevCamp](https://www.youtube.com/watch?v=rwUq0OGF-G4) *[Video]*
