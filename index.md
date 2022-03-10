@@ -3,9 +3,7 @@
 # Cross Device Experiences on Windows
 
 - YourPhone on Windows Insiders [official documentation](https://docs.microsoft.com/en-us/windows-insider/apps/your-phone) *[Website]*
-
 - YourPhone [intro](https://www.makeuseof.com/microsoft-your-phone-app-guide/) *[Article]*
-
 - YourPhone app aspirational animation. [On the Windows Channel](https://www.youtube.com/watch?v=tZrpoSUQCJ0) *[Video]*
 
 - YourPhone on [Windows 11](https://www.pcmag.com/how-to/how-to-connect-your-android-phone-to-your-windows-11-pc)  *[Article]*
