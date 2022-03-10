@@ -12,6 +12,13 @@
 - YourPhone review in [Korean](https://youtu.be/lkhPn1WELPY?t=444) *[Video]*
 - Your Phone on Samsung Galaxy Phone: [How to use](https://www.youtube.com/watch?v=C_4FaNfzaUI) *[Video]*
 - YourPhone [Recent Apps](https://www.gizmochina.com/2022/02/10/microsoft-your-phone-will-show-recent-apps-used-on-samsung-phone/) *[Article]*
+- Introducing the Your Phone app (2018) - [Windows 10 October 2018 Update](https://www.youtube.com/watch?v=XO303V2bQsg&list=PLE-3JyUV3RoPO2coDrqT_TOa14fKo1Ql2&index=2) *[Video]*
+- Galaxy UNPACKED [Aug 2019: Official Replay](https://www.youtube.com/watch?v=S65Y4INdyZk&t=2841s) *[Video]*
+- [Duo 2 Briefing](https://youtu.be/R1CNwBzYqRs?t=1515) *[Video]*
+- Unpacked 2020: [Microsoft and Samsung: Enabling New Possibilities](https://www.youtube.com/watch?v=5fRQgY3d6Aw&list=PLE-3JyUV3RoPO2coDrqT_TOa14fKo1Ql2&index=6) *[Video]*
+- Together is Better [Microsoft/Samsung](https://youtu.be/aG0ptWxeOaU) *[Video]*
+- [MWC 2022](https://youtu.be/8XEMwpsFCyU?t=908) *[Video]*
+- Unleash your mobile apps on your PC [Microsoft/Samsung](https://youtu.be/8XEMwpsFCyU?t=1402) *[Video]*
 
 ## Windows blog
 - [Coming soon](https://blogs.windows.com/windowsexperience/2018/07/31/announcing-windows-10-insider-preview-build-17728/#MHJ0wwCrhTEbQCcE.97)
@@ -26,6 +33,9 @@
 - [Calls GA, >25 photos & pen input](https://aka.ms/WIP19536)
 - [RCS, black screen and copy paste](https://blogs.windows.com/windowsexperience/2020/03/12/announcing-windows-10-insider-preview-build-19582/)
 - [Audio control](https://blogs.windows.com/windowsexperience/2020/04/29/announcing-windows-10-insider-preview-build-19619/)
+- [Public Release](https://blogs.windows.com/windowsexperience/2018/10/02/find-out-whats-new-in-windows-and-office-in-october/#ajoxFKY8RLoWxFof.97)
+- [Samsung partnership](https://blogs.windows.com/windowsexperience/2019/08/07/microsoft-and-samsung-partner-to-empower-you-to-achieve-more/#mKWBG9VQO4U6xbf6.97)
+- Calls ARM availability and other highlights [as part of 20H1](https://blogs.windows.com/windowsexperience/2020/05/27/whats-new-in-the-windows-10-may-2020-update/)
 
 ![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif){:width="300px"}
 
