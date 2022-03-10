@@ -19,6 +19,10 @@
 - Together is Better [Microsoft/Samsung](https://youtu.be/aG0ptWxeOaU) *[Video]*
 - [MWC 2022](https://youtu.be/8XEMwpsFCyU?t=908) *[Video]*
 - Unleash your mobile apps on your PC [Microsoft/Samsung](https://youtu.be/8XEMwpsFCyU?t=1402) *[Video]*
+- Article from Baidu(Top search engine in Chinese): (微软 Win11/10“你的手机”已在国区可用，仅支持特定荣耀手机 (baidu.com)](https://baijiahao.baidu.com/s?id=1723274300332311058&wfr=spider&for=pc) Translation: Your Phone can be supported in China now on specific Honor phone models.
+- Article from Zhihu (Chinese Quora): [怎样使用win10上的”你的手机“？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/388840508) Translation: How to use Your Phone in Win 10. 
+- Video from 163 [微软，Windows，10，全新「你的手机」应用惊艳来袭！_网易视频 (163.com)](https://3g.163.com/v/video/VX0T2MV9I.html)  – Translation: Brand new Your Phone comes! - AAoW introduction clip. 
+
 
 ## Windows blog
 - [Coming soon](https://blogs.windows.com/windowsexperience/2018/07/31/announcing-windows-10-insider-preview-build-17728/#MHJ0wwCrhTEbQCcE.97)
