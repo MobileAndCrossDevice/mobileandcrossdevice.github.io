@@ -1,7 +1,6 @@
 ![image](/images/maxcolor.png){:width="100px"}
 
-# Cross Device Experiences on Windows
-
+# Cross Device Experiences on Windows: YourPhone
 - YourPhone on Windows Insiders [official documentation](https://docs.microsoft.com/en-us/windows-insider/apps/your-phone) *[Website]*
 - YourPhone [intro](https://www.makeuseof.com/microsoft-your-phone-app-guide/) *[Article]*
 - YourPhone app aspirational animation. [On the Windows Channel](https://www.youtube.com/watch?v=tZrpoSUQCJ0) *[Video]*
@@ -31,7 +30,6 @@
 ![Multiple apps](https://docs.microsoft.com/en-us/windows-insider/apps/images/20185.gif){:width="300px"}
 
 # SwiftKey mobile keyboard
-
 - **SwiftKey Symbols**, the symbol-based communication app SwiftKey produced to assist people who are non-verbal or have special needs on [Youtube](https://www.youtube.com/watch?v=tV7A5sjP0GY) *[Video]*
 - **The SwiftKey Fluency engine** is used in other assistive input technology like Click2Speak, developed to assist people with ALS communicating. [Article](https://www.click2speak.net/our-story/) *[Video]*
 - **Multi-lingual emoji search** in SwiftKey [Feb 2022 release](https://windowsreport.com/wiftkey-multilingual-emoji-search/) *[Article]*
