@@ -51,6 +51,9 @@
 
 # Password management
 - Autofill [via Authenticator](https://www.theverge.com/2020/12/16/22178026/microsoft-authenticator-autofill-feature-password-manager) *[Article]*
+- Fill Address and Credit card [Windows blog](https://blogs.windows.com/windowsexperience/2021/10/18/save-time-by-automatically-filling-your-addresses-and-credit-cards-with-microsoft-autofill/) *[Article]*
+- Secure your life with [Microsoft Autofill](https://blogs.windows.com/windowsexperience/2021/02/05/simplify-and-secure-your-life-with-microsofts-autofill-solution-for-passwords/) *[Article]*
+- [Passwords and Authenticator](https://www.youtube.com/watch?v=KfUsAF-hq4Q&t=155s) *[Video]*
 
 # Microsoft Launcher
 - Surface Duo V2 [Microsoft Launcher](https://www.youtube.com/watch?v=QYF6LaLcq90&t=4s) *[Video]*
