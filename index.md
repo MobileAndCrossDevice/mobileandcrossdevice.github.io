@@ -1,6 +1,7 @@
 ![image](/images/maxcolor.png){:width="100px"}
 
 # Cross Device Experiences on Windows: YourPhone
+- Phone Link [rebrand](https://blogs.windows.com/windowsexperience/2022/03/31/evolving-the-connection-between-your-phone-and-your-windows-pc/)
 - YourPhone on Windows Insiders [official documentation](https://docs.microsoft.com/en-us/windows-insider/apps/your-phone) *[Website]*
 - YourPhone [intro](https://www.makeuseof.com/microsoft-your-phone-app-guide/) *[Article]*
 - YourPhone app aspirational animation. [On the Windows Channel](https://www.youtube.com/watch?v=tZrpoSUQCJ0) *[Video]*
