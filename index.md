@@ -1,7 +1,13 @@
 ![image](/images/maxcolor.png){:width="100px"}
 
 # Cross Device Experiences on Windows: YourPhone
-- Phone Link [rebrand](https://blogs.windows.com/windowsexperience/2022/03/31/evolving-the-connection-between-your-phone-and-your-windows-pc/)
+- Phone Link [rebrand BetaNews](https://betanews.com/2022/03/31/your-phone-becomes-phone-link/)
+- https://www.engadget.com/windows-11-phone-link-your-phone-175356621.html
+- https://9to5google.com/2022/03/31/windows-11-phone-link-android-redesign/
+- https://www.pcworld.com/article/628261
+- https://www.windowscentral.com/your-phone-renamed-phone-link
+- https://www.digitaltrends.com/computing/windows-11-phone-link-full-redesign-of-your-phone-app/
+- Phone Link [rebrand Windows Blog](https://blogs.windows.com/windowsexperience/2022/03/31/evolving-the-connection-between-your-phone-and-your-windows-pc/)
 - YourPhone on Windows Insiders [official documentation](https://docs.microsoft.com/en-us/windows-insider/apps/your-phone) *[Website]*
 - YourPhone [intro](https://www.makeuseof.com/microsoft-your-phone-app-guide/) *[Article]*
 - YourPhone app aspirational animation. [On the Windows Channel](https://www.youtube.com/watch?v=tZrpoSUQCJ0) *[Video]*
